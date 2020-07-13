@@ -10,7 +10,7 @@ Intrtupt handler routine:
 	checks if FIFO full flag is set. If set print a message and clears it.
 	at the end initiates a new DMA trasfer
 	
-*/
+*/ 
 
 #include <stdio.h>
 #include "platform.h"
